@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**chengzhi754-afk/chengzhi754-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 程智。
 
-Here are some ideas to get you started:
+我是一名热爱技术、喜欢把复杂问题讲清楚的工程师，当前专注于开发实践、AI 应用和知识沉淀。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 个人档案
+
+- 关于我（about-me.md）：我是谁、现在在做什么、关注哪些领域
+- 写作风格（writing-style.md）：我的表达偏好与写作原则
+
+## 找到我
+
+- 博客 / 主页：<链接>
+- 知乎 / 公众号：<链接或名称>
+- 邮箱：<you@example.com>
